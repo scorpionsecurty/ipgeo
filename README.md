@@ -15,3 +15,12 @@ Features:
 🔹 Works on Linux Termux and Windows systems
 
 🔹 Relies on the ip-api service for location analysis 
+
+
+install Linux or Termux : 
+apt install python 
+pip install request 
+python ipgeo.py
+to window :
+pip install request 
+python ipgeo.py
